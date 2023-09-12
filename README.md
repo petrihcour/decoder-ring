@@ -1,2 +1,3 @@
-# decoder-ring
-capstone
+# Decoder Ring Project 
+
+
