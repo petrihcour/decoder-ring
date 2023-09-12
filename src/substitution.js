@@ -8,7 +8,7 @@
 // return false
 // new data type for unique characters
 // lowercase
-// use helper functions to store message in result
+//use helper functions to store message in result
 
 const substitutionModule = (function () {
   const standardAlphabet = "abcdefghijklmnopqrstuvwxyz";
